@@ -1,6 +1,6 @@
 # 🚀 Curso de JavaScript: Desde Cero
 
-¡Hola y bienvenido a tu viaje por el fascinante mundo de JavaScript! 👋 Soy tu profesor personal en esta aventura de aprendizaje. He preparado un plan de estudios paso a paso, diseñado para que, con tu base en Java, domines JavaScript de forma efectiva y divertida. ¡Prepárate para codificar! 💡
+¡Hola y bienvenido a tu viaje por el fascinante mundo de JavaScript! 👋 Soy tu profesor personal en esta aventura de aprendizaje. He preparado un plan de estudios paso a paso, diseñado para que, con tu base en Java, domines JavaScript de forma efectiva y divertida. ¡Prepárate para codificar! 💡 
 
 ---
 
